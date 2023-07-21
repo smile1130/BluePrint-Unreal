@@ -11,8 +11,6 @@ The aim of publishing it as open-source project is to let people tell great stor
 * Developers creating a Flow Node can call the execution of pins any way they need. API is extremely simple.
 * Editor supports convenient displaying debug information on nodes and wires while playing a game. You simply provide what kind of message would be displayed over active Flow Nodes - you can't have that with blueprint functions.
 * It's up to you to add game-specific functionalities by writing your nodes and editor customizations. It's not like a marketplace providing the very specific implementation of systems. It's a convenient base for building systems tailored to fit your needs.
-* Read documentation on the project wiki. I'd recommend starting from reading about [design philosophy](https://github.com/MothCocoon/FlowGraph/wiki).
-* It's easy to include plugin in your own project, follow this short [Getting Started](https://github.com/MothCocoon/FlowGraph/wiki/Getting-Started) guide.
 
 ## In-depth video presentation
 This 24-minute presentation breaks down the concept of the Flow Graph. Trust me, you want to understand concept properly before diving into implementation.
